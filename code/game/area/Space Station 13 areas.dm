@@ -124,6 +124,9 @@ area/space/atmosalert()
 	name = "\improper Security - Brig"
 	icon_state = "brig"
 
+
+
+
 /area/security/prison
 	name = "\improper Security - Prison Wing"
 	icon_state = "sec_prison"
@@ -179,7 +182,6 @@ area/space/atmosalert()
 /area/shuttle
 	requires_power = 0
 	sound_env = SMALL_ENCLOSED
-	base_turf = /turf/space
 
 /*
 * Special Areas
